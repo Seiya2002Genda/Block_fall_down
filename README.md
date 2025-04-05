@@ -1,2 +1,2 @@
 # Block_fall_down
-Block Fall Downwo
+ChatGPTによるBlock_fall_downのWindow版のデモ版を作成した
