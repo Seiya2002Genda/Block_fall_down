@@ -25,7 +25,8 @@
 
 ## 🖼️ スクリーンショット
 
-![screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/8750a11a-f485-447d-9e17-65518ef215d2)
+
 
 ## 💻 ビルド方法
 
@@ -87,7 +88,8 @@ It does **not rely on SFML or any external libraries**, making it ideal for lear
 
 ## 🖼️ Screenshot
 
-![screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/92b5b2c0-7495-4d38-88f4-d0090c5d759d)
+
 
 ## 💻 How to Build
 
